@@ -5,14 +5,14 @@
 
 ---
 
-I'm a Computer Science graduate from the University of Maryland, College Park, passionate about building tools that **automate work**, **leverage AI**, and **does cool stuff**. I combine practical engineering with fast-moving technologies to create projects that solve real problems.
+I'm a rising junior at the University of Maryland, College Park, majoring in Computer Science. I am passionate about building tools that **automate work**, **leverage AI**, and **does cool stuff**. I combine practical engineering with fast-moving technologies to create projects that solve real problems.
 
 ---
 
 ## 📈 GitHub Stats
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=KamiCYun&show_icons=true&theme=chartreuse-dark&hide=contribs&count_private=true" alt="GitHub Stats" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=cnam2653&show_icons=true&theme=chartreuse-dark&hide=contribs&count_private=true" alt="GitHub Stats" /> -->
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=builtbycyun&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cnam2653&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Most Used Languages" />
 
 ---
 
