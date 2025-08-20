@@ -43,5 +43,5 @@ I'm a rising junior at the University of Maryland, College Park, majoring in Com
 ## 📫 Reach Me
 
 📧 chrisnam928@gmail.com  
-💼 LinkedIn: [linkedin.com/in/cnam2653](https://www.linkedin.com/in/cnam2653/)  
+💼 LinkedIn: [linkedin.com/in/cnam2653]([https://www.linkedin.com/in/chrisnam28/](https://www.linkedin.com/in/chrisnam28/))  
 Feel free to check out my projects and reach out if you’d like to collab!
