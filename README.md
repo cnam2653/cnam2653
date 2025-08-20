@@ -1,6 +1,6 @@
 # Hey, I’m Chris 👋
 
-[![GitHub Followers](https://img.shields.io/github/followers/builtbycyun?label=Follow&style=social)](https://github.com/cnam2653)
+[![GitHub Followers](https://img.shields.io/github/followers/cnam2653?label=Follow&style=social)](https://github.com/cnam2653)
 [![Email](https://img.shields.io/badge/Email-chrisnam928@gmail.com-blue)](mailto:chrisnam928@gmail.com)
 
 ---
@@ -16,26 +16,32 @@ I'm a rising junior at the University of Maryland, College Park, majoring in Com
 
 ---
 
-## 🔭 I’m currently working on...
+## 🔭 My Favorite Projects
 
-- 📡 **return offer;** — A full-stack suite of ML-driven tools built to give CS candidates a real edge in recruiting
-- 🔎 **DeepestLeague** — Advanced ML analytics platform that delivers competitive insights to League of Legends players
-- 🧠 **SpeakEZ** — Browser fingerprinting + ML-based anti-bot system inspired by WAFs such as Akamai, Cloudflare, and Datadome
-
+- **InterviewLab.dev;** 
+  A mock technical interview platform with GPT-4o support for code hints and real-time collaboration.  
+  🛠️ `Go`, `Python`, `Redis`, `PostgreSQL`, `Docker`, `AWS ECS`, `WebSockets` 
+- **Personal OS AI Assistant**
+  A JARVIS-like AI assistant that controls your computer through voice commands
+  🛠️ `Python`, `Hugging Face`, `AWS EC2`, `Redis`, `Docker`, `Porcupine`, `PyTorch`, `LiveKit`  
+- **CareerSync** 
+  Job Application Tracker that uses Gmail API and AI to automatically store your applications and their status in a timeline format
+  🛠️ `Java`, `Spring Boot`, `Maven`, `Kafka`, `Docker`, `Azure`, `PostgreSQL`, `Kubernetes`  
+- **ExpenseWise.org**
+  A Smart Receipt Tracker that uses AWS Textract OCR to automatically track your receipt totals in an analytic dashboard
+  🛠️ `JavaScript`, `AWS Lambda`, `AWS S3`, `AWS Textract`, `AWS Cognito`, `AWS DynamoDB`
+- **and more to come!**
 ---
 
 ## 🌱 Currently Learning
 
-- 🌐 [WebAssembly (WASM)](https://webassembly.org/) — for fast, portable web-based applications  
-- 🧩 [LLMOps](https://www.anyscale.com/blog/what-is-llmops) — scaling, deploying, and evaluating LLMs in production  
-- 🧬 [Vector Databases](https://www.pinecone.io/) — core to semantic search, retrieval-augmented generation (RAG), etc.  
-- 🔐 [Confidential Computing](https://confidentialcomputing.io/) — privacy-preserving AI and secure enclave execution  
-- 🌀 [Diffusion Models](https://huggingface.co/blog/stable_diffusion) — powering the next-gen generative tools  
-- 🧠 [Neural Search](https://www.trychroma.com/) — building smarter search experiences with embeddings
-
+🧠 **LLMOps & RAG Systems** — building and optimizing language models with fine-tuning, RAG pipelines, and vector databases 
+🧬 **Neural Networks** — exploring deep learning architectures 
+🕸️ **Infrastructure** — developing scalable systems with Kubernetes orchestration and Infrastructure as Code
 ---
 
 ## 📫 Reach Me
 
-📧 cyunsoftware@gmail.com  
-💼 Open to freelance work, collabs, and innovative projects
+📧 chrisnam928@gmail.com  
+💼  LinkedIn: [linkedin.com/in/cnam2653](https://www.linkedin.com/in/cnam2653/)  
+Thanks for visiting! Feel free to check out my projects and reach out if you’d like to collaborate!
