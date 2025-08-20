@@ -35,13 +35,14 @@ I'm a rising junior at the University of Maryland, College Park, majoring in Com
 
 ## 🌱 Currently Learning
 
--🧠 **LLMOps & RAG Systems** — building and optimizing language models with fine-tuning, RAG pipelines, and vector databases 
--🧬 **Neural Networks** — exploring deep learning architectures 
--🕸️ **Infrastructure** — developing scalable systems with Kubernetes orchestration and Infrastructure as Code
+🧠 **LLMOps & RAG Systems** — building and optimizing LLMS with fine-tuning, RAG pipelines, and vector databases   
+🧬 **Neural Network** — exploring deep learning architectures
+🕸️ **Infrastructure** — developing scalable systems with Kubernetes orchestration and creating cloud architecture                                                     
+
 ---
 
 ## 📫 Reach Me
 
 📧 chrisnam928@gmail.com  
-💼  LinkedIn: [linkedin.com/in/cnam2653](https://www.linkedin.com/in/cnam2653/)  
-Thanks for visiting! Feel free to check out my projects and reach out if you’d like to collaborate!
+💼 LinkedIn: [linkedin.com/in/cnam2653](https://www.linkedin.com/in/cnam2653/)  
+Feel free to check out my projects and reach out if you’d like to collab!
