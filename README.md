@@ -1,11 +1,11 @@
 # Hey, I’m Chris 👋
 
-[![GitHub Followers](https://img.shields.io/github/followers/builtbycyun?label=Follow&style=social)](https://github.com/builtbycyun)
-[![Email](https://img.shields.io/badge/Email-cyunsoftware@gmail.com-blue)](mailto:cyunsoftware@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/builtbycyun?label=Follow&style=social)](https://github.com/cnam2653)
+[![Email](https://img.shields.io/badge/Email-chrisnam928@gmail.com-blue)](mailto:chrisnam928@gmail.com)
 
 ---
 
-I'm a rising junior at the University of Maryland, College Park, majoring in Computer Science. I am passionate about building tools that **automate work**, **leverage AI**, and **does cool stuff**. I combine practical engineering with fast-moving technologies to create projects that solve real problems.
+I'm a rising junior at the University of Maryland, College Park, majoring in Computer Science. I am passionate about building tools that **solve real-world solutions**, **leverage AI/ML**, and **scale to serve hundreds of users**. 
 
 ---
 
