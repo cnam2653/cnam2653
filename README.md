@@ -5,7 +5,7 @@
 
 ---
 
-I'm a rising junior at the University of Maryland, College Park, majoring in Computer Science. I am passionate about building tools that **solve real-world solutions**, **leverage AI/ML**, and **scale to serve hundreds of users**. 
+I'm a rising junior at the University of Maryland, College Park, majoring in Computer Science. I am passionate about building tools that **solve real-world problems**, **leverage AI/ML**, and **scale to serve hundreds of users**. 
 
 ---
 
