@@ -35,9 +35,9 @@ I'm a rising junior at the University of Maryland, College Park, majoring in Com
 
 ## 🌱 Currently Learning
 
-🧠 **LLMOps & RAG Systems** — building and optimizing language models with fine-tuning, RAG pipelines, and vector databases 
-🧬 **Neural Networks** — exploring deep learning architectures 
-🕸️ **Infrastructure** — developing scalable systems with Kubernetes orchestration and Infrastructure as Code
+-🧠 **LLMOps & RAG Systems** — building and optimizing language models with fine-tuning, RAG pipelines, and vector databases 
+-🧬 **Neural Networks** — exploring deep learning architectures 
+-🕸️ **Infrastructure** — developing scalable systems with Kubernetes orchestration and Infrastructure as Code
 ---
 
 ## 📫 Reach Me
