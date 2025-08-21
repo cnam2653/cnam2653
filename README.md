@@ -10,7 +10,7 @@ I'm a rising junior at the University of Maryland, College Park, majoring in Com
 - Currently a Software Developer Intern @ Apollonian.Ai
 ---
 
-## 📈 GitHub Stats
+## 📈 Skills
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
