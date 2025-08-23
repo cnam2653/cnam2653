@@ -48,7 +48,6 @@ I'm a rising junior at the University of Maryland, College Park, majoring in Com
 <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
 </p>
----
 
 ## 🔭 My Favorite Projects
 
