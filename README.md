@@ -47,11 +47,11 @@ I'm a rising junior at the University of Maryland, College Park, majoring in Com
 <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" /></a>
 <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></a> 
 </p>
 <hr> 
-## **🔭 My Favorite Projects**
 
+## 🔭 My Projects
 - **InterviewLab.dev;** 
   A mock technical interview platform with GPT-4o support for code hints and real-time collaboration.  
   🛠️ `Go`, `Python`, `Redis`, `PostgreSQL`, `Docker`, `AWS ECS`, `WebSockets` 
