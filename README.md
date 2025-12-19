@@ -7,8 +7,9 @@
 
 I'm a rising junior at the University of Maryland, College Park, majoring in Computer Science. I am passionate about building tools that **solve real-world problems**, **leverage AI/ML**, and **scale to serve hundreds of users**. 
 
-- Currently a Software Developer Intern @ Apollonian.Ai
-- Founding Software Engineer @ InterviewLab.dev
+- Currently an Undergraduate Research Assistant @ University of Maryland, Human-Data Interaction Group
+- Software Developer Intern @ Apollonian.Ai
+- Software Engineer Intern @ InterviewLab.dev
 ---
 
 ## 📈 Skills
