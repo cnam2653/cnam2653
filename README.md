@@ -55,18 +55,23 @@ I'm a rising junior at the University of Maryland, College Park, majoring in Com
 ## 🔭 My Projects
 - **InterviewLab.dev** 
   A mock technical interview platform with GPT-4o support for code hints and real-time collaboration.  
+
   🛠️ `Go`, `Python`, `Redis`, `PostgreSQL`, `Docker`, `AWS ECS`, `WebSockets`
 - **PlayBook**
   A soccer intelligence dashboard that uses YOLOv8, GPT-4o, and Roboflow to generate AI tactical insights to soccer matches.
-      🛠️ `YOLOv8`, `Roboflow`, `Python`, `Flask`, `AWS EC2`, `AWS RDS`
+
+  🛠️ `YOLOv8`, `Roboflow`, `Python`, `Flask`, `AWS EC2`, `AWS RDS`
 - **Personal OS AI Assistant**
   A JARVIS-like AI assistant that controls your computer through voice commands
+
   🛠️ `Python`, `Hugging Face`, `AWS EC2`, `Redis`, `Docker`, `Porcupine`, `PyTorch`, `LiveKit`  
 - **CareerSync** 
   Job Application Tracker that uses Gmail API and AI to automatically store your applications and their status in a timeline format
+
   🛠️ `Java`, `Spring Boot`, `Maven`, `Kafka`, `Docker`, `Azure`, `PostgreSQL`, `Kubernetes`  
 - **ExpenseWise.org**
   A Smart Receipt Tracker that uses AWS Textract OCR to automatically track your receipt totals in an analytic dashboard
+
   🛠️ `JavaScript`, `AWS Lambda`, `AWS S3`, `AWS Textract`, `AWS Cognito`, `AWS DynamoDB`
 - **and more to come!**
 ---
