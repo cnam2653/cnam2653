@@ -58,7 +58,7 @@ I'm a rising junior at the University of Maryland, College Park, majoring in Com
   🛠️ `Go`, `Python`, `Redis`, `PostgreSQL`, `Docker`, `AWS ECS`, `WebSockets`
 - **PlayBook**
   A soccer intelligence dashboard that uses YOLOv8, GPT-4o, and Roboflow to generate AI tactical insights to soccer matches.
-  🛠️ `YOLOv8`, `Roboflow`, `Python`, `Flask`, 'AWS RDS`, `AWS EC2`
+  🛠️ `YOLOv8`, `Roboflow`, `Python`, `Flask`, `AWS EC2`, `AWS RDS`
 - **Personal OS AI Assistant**
   A JARVIS-like AI assistant that controls your computer through voice commands
   🛠️ `Python`, `Hugging Face`, `AWS EC2`, `Redis`, `Docker`, `Porcupine`, `PyTorch`, `LiveKit`  
