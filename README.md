@@ -53,7 +53,7 @@ I'm a rising junior at the University of Maryland, College Park, majoring in Com
 <hr> 
 
 ## 🔭 My Projects
-- **InterviewLab.dev;** 
+- **InterviewLab.dev** 
   A mock technical interview platform with GPT-4o support for code hints and real-time collaboration.  
   🛠️ `Go`, `Python`, `Redis`, `PostgreSQL`, `Docker`, `AWS ECS`, `WebSockets`
 - **PlayBook**
